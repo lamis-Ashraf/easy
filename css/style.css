@@ -1,0 +1,223 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.continer{
+    padding-left: 5%; 
+    background-color: #FAFAFA;
+}
+@font-face{
+    font-family: PublicSans-Thin;
+    src: url(../fonts/PublicSans-Thin.ttf);
+}
+@font-face{
+    font-family: PublicSans-Light;
+    src: url(../fonts/PublicSans-Light.ttf)
+}
+@font-face{
+    font-family: PublicSans-Medium;
+    src: url(../fonts/PublicSans-Medium.ttf);
+}
+@font-face{
+    font-family: PublicSans-Regular;
+    src: url(../fonts/PublicSans-Regular.ttf);
+}
+.title{
+    padding-top: 33px;
+    padding-left: 165px;
+}
+.invite{
+    padding-left: 33px;
+    padding-right: 43px;
+    padding-top: 12px;
+    margin-top: 36px;
+    padding-bottom: 13px;
+    background-color: #2D314D;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-family:PublicSans-Thin_Bold ;
+    border-radius: 20px;
+    margin-right: 165px;
+}
+.main{
+    font-size: 56px;
+    color: #2D314D;
+    font-family:PublicSans-Thin_Light ;
+    padding: 165px;
+}
+.text{
+    font-size: 18px;
+    font-family: PublicSans-Regular;
+    color: #9597A5;
+    padding-top: 17px;
+}
+a{
+    background-color: #FFFFFF;
+    text-decoration: none;
+    margin-top:  33px;
+    color: #9597A5;
+    padding-right: 10px;
+    font-family: PublicSans-Regular;
+    font-size: 14px;
+}
+.coniction{
+    padding-top: 33px;
+}
+.request{
+    display: flex;
+    justify-content: space-between;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+}
+.parent{
+    display: flex;
+}
+/* .font{
+    padding-left:823px ;
+    padding-top:201px ;
+    padding-right: 392.6px;
+    padding-bottom:1622.8px ;
+}
+.up{
+    padding-left:1057px ;
+    padding-top:201.8px ;
+    padding-right:140.5 px;
+    padding-bottom:25px ;
+} */
+.choose{
+    font-size:40px ;
+    font-family:PublicSans-Thin_Light ;
+    color: #2D314D;
+    padding-left: 165px;
+    padding-bottom: 27px;
+}
+.open{
+    font-size:16px ;
+    font-family:PublicSans-Regular ;
+    color: #9597A5;
+    padding-left: 165px;
+    padding-bottom: 27px;
+}
+.first-icon{
+    padding-right: 30px;
+}
+.word{
+    font-size:24px ;
+    font-family:PublicSans-Thin_Light ;
+    color: #2D314D;
+    padding-left: 165px;
+    padding-bottom: 27px;
+}
+.hight{
+    display: flex;
+}
+.icons{
+    padding-left:165px ;
+    padding-bottom:37px ;
+}
+.child{
+  font-family:PublicSans-Regular ;
+  font-size:10px ;
+  color: #9597A5;
+  padding-bottom: 11px;
+  padding-top: 27px;
+
+}
+.money{
+    font-family:PublicSans-Thin_Light ;
+    font-size:16px ;
+    color: #2D314D;
+    padding-bottom: 8px;
+}
+.smaller{
+    font-family:PublicSans-Regular ;
+    font-size:13px ;
+    color: #9597A5;
+    padding-bottom: 8px;
+}
+.lastest{
+   font-size: 40px;
+   font-family: PublicSans-Thin_Light;
+   color: #2D314D;
+   padding-top:84px ;
+   padding-bottom:47px ;
+}
+.slid{
+    padding-right: 30px;
+    padding-bottom: 80px;
+}
+.photographic{
+    display: flex;
+}
+.careers{
+    padding-top:48px ;
+    /* padding-bottom:55.3px ; */
+    padding-left: 165px;
+    padding-right:640px ;
+    display: flex;
+}
+.end{
+    padding-right:146px ;
+}
+.link{
+    padding-right: 69px;
+    font-size: 15px;
+    color: #FFFFFF;
+    padding-bottom: 28px;
+    font-family: PublicSans-Regular;
+}
+.conet{
+    padding-left:450px ;
+    padding-top: 14px;
+    padding-right: 60px;
+    font-size: 15px;
+    color: #FFFFFF;
+    font-family: PublicSans-Regular;
+    padding-bottom: 14px;
+}
+.support{
+    padding-top: 14px;
+    padding-left: 25px;
+    padding-right: 45px;
+    font-size: 15px;
+    color: #FFFFFF;
+    font-family: PublicSans-Regular;
+    padding-bottom: 14px;
+}
+.shaps{
+    color: #FAFAFA;
+    padding-right: 13.5px;
+}
+.class{
+    padding-left: 165px;
+    padding-top:55.3px ;
+    padding-right: 131px;
+    padding-bottom:48px ;
+}
+.blog{
+    padding-top: 48px;
+    padding-right: 69px;
+    font-size: 15px;
+    padding-left: 17px;
+    color: #FFFFFF;
+    font-family: PublicSans-Regular;
+    padding-bottom: 14px;
+}
+.Invite{
+    padding-left: 33px;
+    padding-top: 12px;
+    padding-bottom: 13px;
+    padding-right: 43px;
+    color: #FFFFFF;
+    background-color: #30C88F;
+    font-size: 14px;
+    font-family: PublicSans-Thin_Bold;
+    margin-top: 49px;
+    margin-left: 112px;
+}
+.circle{
+    display: flex;
+}
